@@ -2,6 +2,9 @@
 
 GitWar is a web application that allows users to compare GitHub profiles head-to-head and see who is the ultimate developer!
 
+![file_2025-02-21_18 55 10](https://github.com/user-attachments/assets/52bc0577-2d81-4051-bddb-c800e6145cba)
+
+
 
 ## Features
 
@@ -12,7 +15,7 @@ GitWar is a web application that allows users to compare GitHub profiles head-to
 - Dark mode support.
 
 ## Installation
-
+# firstly create a .env file and then keep sensitive token / api key in that
 1. Clone the repository:
 
 ```sh
